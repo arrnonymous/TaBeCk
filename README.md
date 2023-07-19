@@ -1,3 +1,6 @@
+# Tabletop Begaming Cksum
+A software for easier loading of opensource games and other platforms.
+
 # Batman: Arkham Knight ultrawide cutscenes
 ![](/screenshots/BatmanArkhamKnight.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/arkhamknight/total?label=downloads%20after%2045%20of%20v1&style=flat-square)
