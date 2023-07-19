@@ -1,4 +1,4 @@
-# Tabletop Begaming Checksum
+# Tactical Bestowed Checksum
 A software for easier loading of opensource games and other platforms.
 
 # Batman: Arkham Knight ultrawide cutscenes
